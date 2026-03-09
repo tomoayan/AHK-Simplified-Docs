@@ -1,0 +1,14 @@
+{
+  "name": "ahk-documentation",
+  "version": "1.0.0",
+  "description": "Simplified AutoHotkey v2 Documentation",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "latest"
+  }
+}
